@@ -36,7 +36,7 @@ https://gobooks.com
 
 https://online-go.com/docs/other-go-resources
 
-[My personal Youtube subscriptions] (https://www.youtube.com/channel/UCk3dMBIh6CEaQjErNVG0SUQ/channels)
+[My personal Youtube subscriptions](https://www.youtube.com/channel/UCk3dMBIh6CEaQjErNVG0SUQ/channels)
 
 http://i.youku.com/u/UNDIyNzQ0NjIwNA==
 
