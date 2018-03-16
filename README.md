@@ -4,6 +4,6 @@ As soon as they reach a barely acceptable state, I will dedicate a separate repo
 On my list:
 
 - Go resources
-- Go DDK AI (let's target 15kyu AI as a first milestone)
+- Go DDK AI
 - Go study notes
 - ...
