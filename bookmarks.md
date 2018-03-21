@@ -41,3 +41,9 @@ https://online-go.com/docs/other-go-resources
 http://i.youku.com/u/UNDIyNzQ0NjIwNA==
 
 http://i.youku.com/i/UNTY3NDEzMjIw
+
+https://www.yikeweiqi.com
+
+https://go.tianrang.com
+
+http://www.europeangodatabase.eu
