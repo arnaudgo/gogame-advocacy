@@ -47,3 +47,5 @@ https://www.yikeweiqi.com
 https://go.tianrang.com
 
 http://www.europeangodatabase.eu
+
+http://ps.waltheri.net
