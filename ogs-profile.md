@@ -2,6 +2,10 @@ Learning Chinese :-)
 
 万事开头难
 
+My bookmarks:
+
+https://github.com/arnaudgo/gogame-advocacy/blob/master/bookmarks.md
+
 When my games get commented:
 
 versus VPshunt5 8 kyu February 24th, 2018  https://gokibitz.com/kifu/rJ2aWbk9M
