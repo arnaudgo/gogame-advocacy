@@ -3,8 +3,9 @@ Learning Chinese :-)
 万事开头难
 
 My bookmarks:
+[here](https://github.com/arnaudgo/gogame-advocacy/blob/master/bookmarks.md)
 
-https://github.com/arnaudgo/gogame-advocacy/blob/master/bookmarks.md
+My Youtube subscriptions: [here](https://www.youtube.com/channel/UCk3dMBIh6CEaQjErNVG0SUQ/channels)
 
 When my games get commented:
 
