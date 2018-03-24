@@ -26,6 +26,8 @@ https://www.reddit.com/r/baduk
 
 http://www.jeudego.info
 
+http://www.jeudego.org
+
 http://www.goproblems.com
 
 https://www.ghost-go.com
