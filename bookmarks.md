@@ -51,3 +51,15 @@ https://go.tianrang.com
 http://www.europeangodatabase.eu
 
 http://ps.waltheri.net
+
+http://josekipedia.com
+
+http://www.josekifarm.com
+
+http://www.gokgs.com
+
+https://gtl.xmp.net
+
+http://www.tygembaduk.com
+
+https://online-go.com
