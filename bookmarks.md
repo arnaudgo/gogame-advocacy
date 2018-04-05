@@ -2,11 +2,11 @@
 |---|---|---|
 |https://badukmovies.com|blabla|blabla
 |https://gokibitz.com|blabla|blabla
-|https://www.lifein19x19.com|blabla|blabla
+|https://www.lifein19x19.com|forums:english|blabla
 |https://www.britgo.org|blabla|blabla
-|http://wiki.c2.com/?GameOfGo|blabla|blabla
-|http://go-on.forumactif.com|blabla|blabla
-|https://senseis.xmp.net|blabla|blabla
+|http://wiki.c2.com/?GameOfGo|english|blabla
+|http://go-on.forumactif.com|forums|blabla
+|https://senseis.xmp.net|wiki:english|blabla
 |http://gobase.org|blabla|blabla
 |http://www.advancedstudyroom.org|blabla|blabla
 |http://361points.com|blabla|blabla
@@ -29,7 +29,7 @@
 |http://ps.waltheri.net|blabla|blabla
 |http://josekipedia.com|blabla|blabla
 |http://www.josekifarm.com|blabla|blabla
-|http://www.gokgs.com|blabla|blabla
+|http://www.gokgs.com|goserver|blabla
 |https://gtl.xmp.net|blabla|blabla
-|http://www.tygembaduk.com|blabla|blabla
-|https://online-go.com|blabla|blabla
+|http://www.tygembaduk.com|goserver|blabla
+|https://online-go.com|goserver|blabla
