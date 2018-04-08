@@ -1,3 +1,5 @@
+Below my bookmarks provided in plain text until I offer a web page for browsing them.
+
 |url|tags|comment|
 |---|---|---|
 |https://badukmovies.com|blabla|blabla
@@ -33,3 +35,11 @@
 |https://gtl.xmp.net|blabla|blabla
 |http://www.tygembaduk.com|goserver|blabla
 |https://online-go.com|goserver|blabla
+|http://wars.fm/go9|goserver|blabla
+|https://weiqi-to-go.net|blabla|blabla
+|http://www.weiqitv.com|blabla|blabla
+|http://www.go4go.net|blabla|blabla
+|http://www.tvbaduk.com|blablabla|blabla
+|http://www.gocommentary.com|blablabla|blabla
+|http://eurogotv.com|blablab|blabla
+|http://bodhiwater.blogspot.fr|blabla|blabla
